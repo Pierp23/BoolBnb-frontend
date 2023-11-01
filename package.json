@@ -1,0 +1,25 @@
+{
+  "name": "template-vue-vite-sass",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tomtom-international/web-sdk-maps": "^6.25.0",
+    "@tomtom-international/web-sdk-plugin-searchbox": "^3.2.0",
+    "@tomtom-international/web-sdk-services": "^6.25.0",
+    "axios": "^1.5.1",
+    "bootstrap": "^5.3.2",
+    "rfs": "^10.0.0",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "sass": "^1.63.6",
+    "vite": "^4.4.0"
+  }
+}
